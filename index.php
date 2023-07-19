@@ -57,8 +57,8 @@ include ("includes/_functions.php");
 
 <br style="clear:both">	
 
-
-	<div>
+		<!-- JQUERY Random Images -->
+	<!-- <div>
 		<html>
 		<head>
 		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -84,7 +84,7 @@ include ("includes/_functions.php");
 			
 		</body>
 		</html>
-	</div>
+	</div> -->
 </div>
 	<?php include ("includes/footer.php"); ?>
 
